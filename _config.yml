@@ -1,7 +1,8 @@
 # Site settings
 title: pedroamaral.pt
-description: 'pedroamaral - Jekyll-Uno forked from joshgerdes'
+description: 'Software Engineer based in Porto'
 url: 'www.pedroamaral.pt'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
@@ -9,7 +10,6 @@ author:
   name: 'Pedro Amaral'
   email: pedr.amaral@gmail.com
   twitter_username: lockemind
-  facebook_username: lockemind
   github_username:  lockemind
   linkedin_username:  lockemind
 
