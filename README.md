@@ -1,2 +1,2 @@
-[pedroamaral.pt](pedroamaral.pt)
+[pedroamaral.pt](www.pedroamaral.pt)
 
