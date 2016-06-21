@@ -8,6 +8,4 @@ tags: [read]
 I am Pedro Amaral, a Software Engineer based in Porto, Portugal.
 
 My reading list for this week 
-
-[Style Guide Driven Development with Atomic Docs]:(https://css-tricks.com/style-guide-driven-development-atomic-docs/)
-[Typography Handbook]:(http://typographyhandbook.com/)
+[link to Google!](http://google.com)
