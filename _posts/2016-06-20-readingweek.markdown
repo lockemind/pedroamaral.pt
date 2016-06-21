@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blog as playground"
+title:  "Reading list for week 24"
 date:   2016-06-20 15:04:23
 categories: [read]
 tags: [read]
