@@ -8,6 +8,6 @@ tags: [read]
 My reading list for this week 
 
 Style Guide Driven Development with Atomic Docs
-[StyleGuideDrivenDevelopmentwithAtomicDocs]:(https://css-tricks.com/style-guide-driven-development-atomic-docs)
+https://css-tricks.com/style-guide-driven-development-atomic-docs
 Typography Handbook
-[TypographyHandbook]:(http://typographyhandbook.com)
+http://typographyhandbook.com
