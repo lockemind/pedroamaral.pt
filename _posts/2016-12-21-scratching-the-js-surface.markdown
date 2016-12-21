@@ -10,4 +10,9 @@ I gathered some information to get me restarted:
 
 [ES6 Features](http://es6-features.org)
 
+[ES6 Promises in depth](https://ponyfoo.com/articles/es6-promises-in-depth)
+
 [Understading strict mode](http://azimi.me/2016/02/11/understanding-strict-mode.html)
+
+
+
